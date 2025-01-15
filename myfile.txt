@@ -2,3 +2,8 @@ yogeshjanjal-novapexhub
 
 git config --global user.name "yogeshjanjal-novapexhub"
 git config --global user.email "yogesh.janjal@novapexhub.com"
+
+git init
+git add . -- git add FILE NAME
+git commit -m "first commit"
+git push -u origin main
