@@ -1,0 +1,4 @@
+yogeshjanjal-novapexhub
+
+git config --global user.name "yogeshjanjal-novapexhub"
+git config --global user.email "yogesh.janjal@novapexhub.com"
